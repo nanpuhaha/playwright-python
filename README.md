@@ -14,4 +14,5 @@ pip install playwright
 python -m playwright install
 sudo apt-get install libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libgbm1 libpangocairo-1.0-0 libpango-1.0-0 libcairo2 libatspi2.0-0 libgtk-3-0 libgdk-pixbuf2.0-0 ffmpeg
 sudo apt-get install libdbus-glib-1-2
+sudo apt-get install libgles2
 ```
